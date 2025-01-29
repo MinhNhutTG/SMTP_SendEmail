@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tuhin\\Desktop\\WorkSpace\\testsendmail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61C74BB2-4FB6-4365-9A6B-111D8FAB2079}|testsendmail\\testsendmail.csproj|c:\\users\\tuhin\\desktop\\workspace\\testsendmail\\testsendmail\\gui\\sendmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61C74BB2-4FB6-4365-9A6B-111D8FAB2079}|testsendmail\\testsendmail.csproj|solutionrelative:testsendmail\\gui\\sendmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C74BB2-4FB6-4365-9A6B-111D8FAB2079}|testsendmail\\testsendmail.csproj|c:\\users\\tuhin\\desktop\\workspace\\testsendmail\\testsendmail\\account.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{61C74BB2-4FB6-4365-9A6B-111D8FAB2079}|testsendmail\\testsendmail.csproj|solutionrelative:testsendmail\\account.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C74BB2-4FB6-4365-9A6B-111D8FAB2079}|testsendmail\\testsendmail.csproj|c:\\users\\tuhin\\desktop\\workspace\\testsendmail\\testsendmail\\resources\\listmail.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{61C74BB2-4FB6-4365-9A6B-111D8FAB2079}|testsendmail\\testsendmail.csproj|solutionrelative:testsendmail\\resources\\listmail.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C74BB2-4FB6-4365-9A6B-111D8FAB2079}|testsendmail\\testsendmail.csproj|c:\\users\\tuhin\\desktop\\workspace\\testsendmail\\testsendmail\\gui\\sendmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C74BB2-4FB6-4365-9A6B-111D8FAB2079}|testsendmail\\testsendmail.csproj|solutionrelative:testsendmail\\gui\\sendmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.xml",
+              "DocumentMoniker": "C:\\Users\\tuhin\\Desktop\\WorkSpace\\testsendmail\\testsendmail\\Account.xml",
+              "RelativeDocumentMoniker": "testsendmail\\Account.xml",
+              "ToolTip": "C:\\Users\\tuhin\\Desktop\\WorkSpace\\testsendmail\\testsendmail\\Account.xml",
+              "RelativeToolTip": "testsendmail\\Account.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-01-29T11:15:23.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListMail.txt",
+              "DocumentMoniker": "C:\\Users\\tuhin\\Desktop\\WorkSpace\\testsendmail\\testsendmail\\Resources\\ListMail.txt",
+              "RelativeDocumentMoniker": "testsendmail\\Resources\\ListMail.txt",
+              "ToolTip": "C:\\Users\\tuhin\\Desktop\\WorkSpace\\testsendmail\\testsendmail\\Resources\\ListMail.txt",
+              "RelativeToolTip": "testsendmail\\Resources\\ListMail.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-29T10:45:33.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SendMail.cs",
+              "DocumentMoniker": "C:\\Users\\tuhin\\Desktop\\WorkSpace\\testsendmail\\testsendmail\\GUI\\SendMail.cs",
+              "RelativeDocumentMoniker": "testsendmail\\GUI\\SendMail.cs",
+              "ToolTip": "C:\\Users\\tuhin\\Desktop\\WorkSpace\\testsendmail\\testsendmail\\GUI\\SendMail.cs",
+              "RelativeToolTip": "testsendmail\\GUI\\SendMail.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAIwIAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:24:34.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SendMail.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuhin\\Desktop\\WorkSpace\\testsendmail\\testsendmail\\GUI\\SendMail.cs",
+              "RelativeDocumentMoniker": "testsendmail\\GUI\\SendMail.cs",
+              "ToolTip": "C:\\Users\\tuhin\\Desktop\\WorkSpace\\testsendmail\\testsendmail\\GUI\\SendMail.cs [Design]",
+              "RelativeToolTip": "testsendmail\\GUI\\SendMail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T01:51:34.988Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

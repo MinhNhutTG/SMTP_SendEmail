@@ -1,0 +1,10 @@
+C:\Users\tuhin\Desktop\WorkSpace\testsendmail\testsendmail\bin\Debug\testsendmail.exe.config
+C:\Users\tuhin\Desktop\WorkSpace\testsendmail\testsendmail\bin\Debug\testsendmail.exe
+C:\Users\tuhin\Desktop\WorkSpace\testsendmail\testsendmail\bin\Debug\testsendmail.pdb
+C:\Users\tuhin\Desktop\WorkSpace\testsendmail\testsendmail\obj\Debug\testsendmail.csproj.AssemblyReference.cache
+C:\Users\tuhin\Desktop\WorkSpace\testsendmail\testsendmail\obj\Debug\testsendmail.Properties.Resources.resources
+C:\Users\tuhin\Desktop\WorkSpace\testsendmail\testsendmail\obj\Debug\testsendmail.csproj.GenerateResource.cache
+C:\Users\tuhin\Desktop\WorkSpace\testsendmail\testsendmail\obj\Debug\testsendmail.csproj.CoreCompileInputs.cache
+C:\Users\tuhin\Desktop\WorkSpace\testsendmail\testsendmail\obj\Debug\testsendmail.exe
+C:\Users\tuhin\Desktop\WorkSpace\testsendmail\testsendmail\obj\Debug\testsendmail.pdb
+C:\Users\tuhin\Desktop\WorkSpace\testsendmail\testsendmail\obj\Debug\testsendmail.SendMail.resources
